@@ -32,3 +32,5 @@ A professional-grade word processor built with **Java Swing**, managed by **Mave
 3.Build: Run mvn clean install to download dependencies.
 
 4.Run: Execute the NotepadApp class.
+
+My first real project after i started learning java full stack made with ❤️ Bhavith
